@@ -3,3 +3,4 @@ node_modules/
 
 # Database
 /src/database/db.sqlite3
+/src/database/test.sqlite3
