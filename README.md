@@ -2,7 +2,7 @@
 
 <div align="center">
     <p>
-        API para utilização nos projetos <a href="https://github.com/amandabezerra/be-the-hero-frontend)">Be The Hero - Frontend</a> e <a href="https://github.com/amandabezerra/be-the-hero-mobile)">Be The Hero - Mobile</a>.
+        API para utilização nos projetos <a href="https://github.com/amandabezerra/be-the-hero-frontend">Be The Hero - Frontend</a> e <a href="https://github.com/amandabezerra/be-the-hero-mobile">Be The Hero - Mobile</a>.
     </p>
     <div>
         <a href="#tecnologias">Tecnologias</a>
